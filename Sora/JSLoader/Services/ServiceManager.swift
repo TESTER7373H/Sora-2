@@ -43,7 +43,8 @@ class ServiceManager: ObservableObject {
         "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/cinemadeck/cinemadeck.json",
         "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/aniwave/aniwave.json",
         "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/soaperlive/soaperlive.json",
-        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/vixsrc/vixsrc.json"
+        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/vixsrc/vixsrc.json",
+        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/rive/rive.json"
     ]
     
     private init() {
