@@ -37,12 +37,12 @@ class ServiceManager: ObservableObject {
         "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/net3lix/net3lix.json",
         "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/hianime/hianime.json",
         "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/gojowtf/gojowtf.json",
-        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/flickystream/flickystream.json"
-        "https://raw.githubusercontent.com/ShadeOfChaos/Sora-Modules/refs/heads/main/Miruro/live/Miruro.json"
-        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/xprime/xprime.json"
-        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/cinemadeck/cinemadeck.json"
-        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/aniwave/aniwave.json"
-        "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/soaperlive/soaperlive.json"
+        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/flickystream/flickystream.json",
+        "https://raw.githubusercontent.com/ShadeOfChaos/Sora-Modules/refs/heads/main/Miruro/live/Miruro.json",
+        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/xprime/xprime.json",
+        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/cinemadeck/cinemadeck.json",
+        "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/aniwave/aniwave.json",
+        "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/soaperlive/soaperlive.json",
         "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/vixsrc/vixsrc.json"
     ]
     
